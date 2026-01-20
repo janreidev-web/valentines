@@ -17,12 +17,11 @@ export default function Gallery() {
 
   return (
     <div className="valentine-app">
+      <header className="valentine-header">
+        <h1>💕 Valentine's Flower Garden 💕</h1>
+        <p>Choose a flower to express your love</p>
+      </header>
       <div className="page-container">
-        <header className="valentine-header">
-          <h1>💕 Valentine's Flower Garden 💕</h1>
-          <p>Choose a flower to express your love</p>
-        </header>
-        
         <main className="gallery-main">
           <div className="flower-cards-grid">
             {flowers.map((flower) => (

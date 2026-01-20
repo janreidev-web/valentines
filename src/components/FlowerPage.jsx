@@ -35,8 +35,8 @@ export default function FlowerPage() {
   return (
     <div className="valentine-app">
       <header className="flower-page-header">
-          <h1>{flower.emoji} {flower.name} {flower.emoji}</h1>
-          <p>A beautiful expression of love</p>
+        <h1>{flower.emoji} {flower.name} {flower.emoji}</h1>
+        <p>A beautiful expression of love</p>
       </header>
       
       <div className="page-container">
