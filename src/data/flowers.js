@@ -30,7 +30,7 @@ const flowers = [
     emoji: '🌷',
     letter: {
       songSrc: '/songs/ate-aurium.mp3',
-      imageSrc: '/letters/ate-aurium.jpg',
+      imageSrc: '/letters/ate-aurium.png',
       message: [
         'This beautiful flower represents the perfect way to express your love and affection.',
         'Use your mouse to rotate and zoom around the 3D model!',
@@ -50,7 +50,7 @@ const flowers = [
     emoji: '🌸',
     letter: {
       songSrc: '/songs/ate-twinkle.mp3',
-      imageSrc: '/letters/ate-twinkle.jpg',
+      imageSrc: '/letters/ate-twinkle.png',
       message: [
         'This beautiful flower represents the perfect way to express your love and affection.',
         'Use your mouse to rotate and zoom around the 3D model!',
@@ -65,12 +65,12 @@ const flowers = [
   },
   {
     id: 4,
-    name: 'Ate Magz',
+    name: 'Ate Unknown 2.0',
     file: 'flower (2).glb',
     emoji: '🌺',
     letter: {
-      songSrc: '/songs/ate-magz.mp3',
-      imageSrc: '/letters/ate-magz.jpg',
+      songSrc: '/songs/ate-unknown2.mp3',
+      imageSrc: '/letters/ate-unknown2.png',
       message: [
         'This beautiful flower represents the perfect way to express your love and affection.',
         'Use your mouse to rotate and zoom around the 3D model!',
@@ -90,7 +90,7 @@ const flowers = [
     emoji: '💝',
     letter: {
       songSrc: '/songs/kuys-unknown.mp3',
-      imageSrc: '/letters/kuys-unknown.jpg',
+      imageSrc: '/letters/kuya-unknown.png',
       message: [
         'This beautiful flower represents the perfect way to express your love and affection.',
         'Use your mouse to rotate and zoom around the 3D model!',
