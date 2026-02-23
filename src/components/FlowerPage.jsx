@@ -92,10 +92,6 @@ export default function FlowerPage() {
                 {isEnvelopeOpen ? 'Click to close your letter' : 'Click to open your letter'}
               </p>
             </div>
-            
-            <div className="navigation-buttons">
-              <Link to="/" className="nav-button">Back to Gallery</Link>
-            </div>
           </div>
         </main>
 
